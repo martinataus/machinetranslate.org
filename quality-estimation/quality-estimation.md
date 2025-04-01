@@ -60,6 +60,7 @@ In 2020, [ModelFront](/companies#modelfront) launched a multilingual quality est
 Tharindu Ranasinghe released pretrained models.
 Facebook Research launched unsupervised quality estimation internally.
 
+In 2023, TAUS launched [EPIC API](https://www.taus.net/).
 A growing set of frameworks, models, and systems are generally available.
 
 ### Frameworks
